@@ -12,7 +12,7 @@ Bug tracking, feature feedback, and project information management repository fo
 
 This repository operates on a **sponsorship model**. Access to the entire suite is granted upon sponsorship.
 
-If you only want the suite, please sponsor us via [🏪淘宝店铺](https://e.tb.cn/h.Rv1a8UiVsE53pXG?tk=YcUzglXBgiY):
+If you only want the suite, please sponsor us via 🏪淘宝店铺:
 
 1. Open the Taobao App and search for the shop `创世界数字产品`, then enter the shop.
 2. Once in the shop, search within the store for the product name: **`屏幕捕获套件`** to sponsor.
