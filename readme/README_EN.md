@@ -72,8 +72,8 @@ When submitting an Issue, please include:
 
 ## Links
 
-- **Tool Introduction Video**: [URL]
-- **About Us**: [URL]
+- **About Us**: https://www.bilibili.com/video/BV1oqTW6SEzK
+- **Tool Introduction Video**: https://www.bilibili.com/video/BV1xJTW6AEdT
 
 ---
 

@@ -72,9 +72,8 @@
 
 ## 链接
 
-- **工具介绍视频**: [url]
-- **关于我们**: [url]
-
+- **关于我们**: https://www.bilibili.com/video/BV1oqTW6SEzK
+- **工具介绍视频**: https://www.bilibili.com/video/BV1xJTW6AEdT
 ---
 
 ## 有偿技术支持与授权
